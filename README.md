@@ -2,9 +2,21 @@
 
 My name is Fernando, but you can call me Fer.
 
-I want to have a great time working in Ironhack campus!
+I did a full-stack web-dev bootcamp in Ironhack BCN.
 
-[This is my first project](https://xxdorkanxx.github.io/Space_Collissions/)
+Now i'm searching for job in the IT sector.
+
+## Linkedn
+
+You can check my profile clicking [here](https://www.linkedin.com/in/fersanchezgarcia/)
+
+## Projects
+
+[My first project](https://xxdorkanxx.github.io/Space_Collissions/)
+
+[My second project](https://irontinder-fer.herokuapp.com/)
+
+[My third project](https://pbevents-fan.herokuapp.com/)
 <!--
 **xXDorkanXx/xXDorkanXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
