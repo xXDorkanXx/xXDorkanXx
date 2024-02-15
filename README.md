@@ -10,13 +10,13 @@ Now i'm searching for job in the IT sector.
 
 You can check my profile clicking [here](https://www.linkedin.com/in/fersanchezgarcia/)
 
-## Projects
+## Academic Projects
 
-[My first project](https://xxdorkanxx.github.io/Space_Collissions/)
+[Space Collissions](https://xxdorkanxx.github.io/Space_Collissions/)
 
-[My second project](https://irontinder-fer.herokuapp.com/)
+[My second project](https://irontinder-fer.herokuapp.com/) (in maintenance)
 
-[My third project](https://pbevents-fan.herokuapp.com/)
+[My third project](https://pbevents-fan.herokuapp.com/) (in maintenance)
 <!--
 **xXDorkanXx/xXDorkanXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
